@@ -1,0 +1,13 @@
+.positivo{
+    font-size: smaller;
+    color: green;
+}
+
+.negativo{
+    color: red;
+}
+
+
+#contador{
+    font-size: 400%;
+}
